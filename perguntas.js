@@ -1,23 +1,29 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Moda',
+    'O que é um Corretivo?',
+    'O corretivo é um produto de maquiagem utilizado para disfarçar imperfeições na pele, como olheiras, manchas e espinhas, proporcionando um acabamento mais uniforme.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Moda',
+    'O que é uma Base?',
+    'A base é um produto de maquiagem que uniformiza o tom da pele, cobrindo imperfeições e criando uma superfície lisa para a aplicação de outros produtos.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Moda',
+    'O que é Blush?',
+    'O blush é um produto de maquiagem que adiciona cor às bochechas, proporcionando um aspecto saudável e radiante ao rosto.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Moda',
+    'O que é um Iluminador?',
+    'O iluminador é um produto que realça áreas específicas do rosto, criando um brilho sutil e luminoso, e enfatizando os traços faciais.'
+)
+
+criaCartao(
+    'Moda',
+    'O que é Sombra?',
+    'A sombra é um produto de maquiagem usado nas pálpebras para adicionar cor e profundidade aos olhos, podendo ser matte ou cintilante, em diversas tonalidades.'
 )
